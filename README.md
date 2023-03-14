@@ -5,7 +5,7 @@ Bot Discord para buscar videos no youtube
 Baixar as dependencias via composer da biblioteca discordPHP
 Run $ composer require team-reflex/discord-php
 
-#Google APi services
+# Google APi services
 Baixar as dependencias via composer da biblioteca do google
 Run $ composer require google/apiclient:^2.0
 Seguir os passos Para criar uma aplicação no google 
