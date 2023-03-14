@@ -1,0 +1,12 @@
+
+// Chave da API do Youtube
+define(
+    'KEY_YOUTUBE', 
+    ''
+);
+
+// Token do Bot 
+define(
+    'TOKEN_BOT',
+    ''
+);
