@@ -53,7 +53,7 @@ $discord->on(
                     
                     
                 } catch(Exception $e){
-                    $message->reply('Singão buscaMeme foi Neutralizado!');
+                    $message->reply('Serviço finalizado');
                 }
 
             }
